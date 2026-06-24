@@ -6,6 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Patterns](https://img.shields.io/badge/Patterns-6_Strategies-green.svg)](#pattern-selection-matrix)
+[![GitHub stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/workflow-patterns?style=social)](https://github.com/Evgeniy-Mikhailove/workflow-patterns/stargazers)
 
 ---
 
