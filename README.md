@@ -1,5 +1,7 @@
 # AI Workflow Patterns
 
+![AI Workflow Patterns](assets/hero.png)
+
 **6 strategies for structuring complex AI tasks. Pick the right pattern before you start - not after you're stuck.**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
